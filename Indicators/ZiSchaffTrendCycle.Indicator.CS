@@ -73,7 +73,6 @@ namespace PowerLanguage.Indicator
 			iMACD.Price = Bars.Close;
 			iMACD.FastLength= MACDFast;
 			iMACD.SlowLength = MACDSlow;
-			//iMACD. = MACDSmooth;
 		}
 
 
