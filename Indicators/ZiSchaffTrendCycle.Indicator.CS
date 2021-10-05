@@ -1,4 +1,7 @@
-﻿using System;
+// 
+// Copyright (C) 2021 Alejandro Galindo Cháirez
+// 
+using System;
 using System.Drawing;
 using System.Linq;
 using PowerLanguage.Function;
