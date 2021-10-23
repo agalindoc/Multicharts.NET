@@ -1,7 +1,6 @@
 # Multicharts.NET
 
 Multicharts signals, functions and indicators
-
 <br />
 <br />
 <br />
